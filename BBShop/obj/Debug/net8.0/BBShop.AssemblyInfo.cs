@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BBShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfe292603910921c89e0dbb8c85906adb52abf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BBShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BBShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

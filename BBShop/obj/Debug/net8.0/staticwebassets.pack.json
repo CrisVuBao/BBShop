@@ -17,6 +17,1206 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\KhachHang\\Author.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\KhachHang\\Author.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\KhachHang\\Penguins.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\KhachHang\\android_300200.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\KhachHang\\android_300200.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\KhachHang\\man.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\KhachHang\\man.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\KhachHang\\woman.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\KhachHang\\woman.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai11.jpeg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai11.jpeg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Accept.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Accept.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Alarm.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Alarm.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Anchor.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Anchor.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Bell.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Bell.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Best.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Best.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Billboard.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Billboard.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Bomb.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Bomb.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Brick house.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Brick house.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Bricks.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Bricks.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Buddy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Buddy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Certificate.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Certificate.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Dice.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Dice.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Dollar.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Dollar.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Favourites.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Favourites.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Funny.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Funny.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Heart.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Heart.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Microsoft.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Microsoft.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\Unlock.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\Unlock.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loai\\agenda_1.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loai\\agenda_1.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Loaiimages.jpeg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Loaiimages.jpeg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\Acer_logo-300x300.gif",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\Acer_logo-300x300.gif"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\amd-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\amd-logo.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\apple.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\apple.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\dell-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\dell-logo.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\dell-logo2.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\dell-logo2.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\hp-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\hp-logo.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\intel-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\intel-logo.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\motorola.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\motorola.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\nokia.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\nokia.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\samsung-logo-2.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\samsung-logo-2.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\samsung.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\samsung.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\shopping_cart.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\NhaCC\\sonny-ericsson.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\NhaCC\\sonny-ericsson.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\Others\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\Others\\shopping_cart.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\1009.gif",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\1009.gif"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\21meTyhQebL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\21meTyhQebL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31EPGSm2s1L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31EPGSm2s1L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31LAnW1JFqL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31LAnW1JFqL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31TB6tC6BOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31TB6tC6BOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31YOss-gC-L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31YOss-gC-L._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31hCgES5GXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31hCgES5GXL._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31ioCUUFnoL.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31ioCUUFnoL.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31jsjfVfH9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31jsjfVfH9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31ncPnMYCxL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31ncPnMYCxL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31pAGovVENL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31pAGovVENL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31pT+SdvQXL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31pT+SdvQXL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\31yxRemzRLL._SS350_ (1).jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\31yxRemzRLL._SS350_ (1).jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41-yvkFqVZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41-yvkFqVZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\410PjzqoC8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\410PjzqoC8L._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\415cOCbey.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\415cOCbey.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\415cOCbeyML.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\415cOCbeyML.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\416OcTXFfeL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\416OcTXFfeL._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\416pdroSEkL.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\416pdroSEkL.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\419WCoqfamL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\419WCoqfamL._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41A9R5KXCXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41A9R5KXCXL._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41BiMx1FKyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41BiMx1FKyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41CIcYRxJKL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41CIcYRxJKL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41G38jC0ajL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41G38jC0ajL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41GVLtgNngL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41GVLtgNngL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41IPLmZIKhL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41IPLmZIKhL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41KALboJKuL.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41KALboJKuL.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41LMouG6j7L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41LMouG6j7L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41MJUdI2jdL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41MJUdI2jdL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41Pg1ahql8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41Pg1ahql8L._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41RxtSQOd2L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41RxtSQOd2L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41TexqWVkHL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41TexqWVkHL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41V4Ds2PtZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41V4Ds2PtZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41WvZnGYUkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41WvZnGYUkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41XX7Pi240L.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41XX7Pi240L.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41Ymq8fjbOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41Ymq8fjbOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41Z43OmFHjL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41Z43OmFHjL._SX342_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41ZE9SmWdzL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41ZE9SmWdzL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41brDHtPY9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41brDHtPY9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41iDo0HDhbL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41iDo0HDhbL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41iji4-9UsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41iji4-9UsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41lffECD-sL._SY445_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41lffECD-sL._SY445_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41qfgTvFBwL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41qfgTvFBwL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41qlcUEhNmL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41qlcUEhNmL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41riQRGf-6L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41riQRGf-6L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41sd2DTD8EL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41sd2DTD8EL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41sdBTtnUDL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41sdBTtnUDL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41sl3FN6NpL.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41sl3FN6NpL.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41sw9ASUvBL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41sw9ASUvBL._SX342_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41w4TlVPhGL.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41w4TlVPhGL.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41wHu2N4tVL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41wHu2N4tVL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41yh1vBmqsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41yh1vBmqsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\41zxxR71G+L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\41zxxR71G+L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51+4d3VBFvL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51+4d3VBFvL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\513UnnRfFML._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\513UnnRfFML._SL1001_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\515p1IeP0-L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\515p1IeP0-L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\5195-l+nflL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\5195-l+nflL._AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51GBNkHO6vL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51GBNkHO6vL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51JhyHtnEgL._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51JhyHtnEgL._SL1001_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51Lj5bxbNtL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51Lj5bxbNtL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51Z9tfgl4aL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51Z9tfgl4aL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51czOOat0OL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51czOOat0OL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51l46qQB50L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51l46qQB50L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51nukXFJLJL.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51nukXFJLJL.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51pvLIvb6ZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51pvLIvb6ZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51s6pbRlNyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51s6pbRlNyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51uJ-pWfc9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51uJ-pWfc9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51vxcBS1sQL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51vxcBS1sQL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51w+JqOnmSL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51w+JqOnmSL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51y46IslQkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51y46IslQkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\51yomC0EodL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\51yomC0EodL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\71bJrFAys9L._SL1280_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\71bJrFAys9L._SL1280_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\71cBwWAgvIL._SL1430_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\71cBwWAgvIL._SL1430_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\816zGZv1ORL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\816zGZv1ORL._SL1500_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\81Q1DvOnnoL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\81Q1DvOnnoL._SL1500_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\81k1XbQ6nQL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\81k1XbQ6nQL._SL1500_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\91FM0Hog9FL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\91FM0Hog9FL._SL1500_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\91JUBDf1jTL._AA1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\91JUBDf1jTL._AA1500_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\91T2BjUkYmL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\91T2BjUkYmL._SL1500_.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\Camera1.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\Camera1.jpg"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\SanPham\\To.gif",
+      "PackagePath": "staticwebassets\\img\\Hinh\\SanPham\\To.gif"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\divider.gif",
+      "PackagePath": "staticwebassets\\img\\Hinh\\divider.gif"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Accept.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Accept.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Add to basket.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Add to basket.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Add.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Add.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Address book.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Address book.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Alarm.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Alarm.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Anchor.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Anchor.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Application form.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Application form.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bar chart.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bar chart.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Basket.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Basket.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bell.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bell.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Best.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Best.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Billboard.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Billboard.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bluetooth.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bluetooth.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bomb.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bomb.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Book.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Book.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bookmark.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bookmark.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Box.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Box.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Boy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Boy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Brick house.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Brick house.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bricks.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bricks.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Brief case.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Brief case.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Brightness.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Brightness.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Bubble.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Bubble.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Buddy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Buddy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Cable.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Cable.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Calculator.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Calculator.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Calendar.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Calendar.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Call.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Call.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Camera.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Camera.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Card file.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Card file.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Cash register.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Cash register.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Cat.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Cat.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Certificate.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Certificate.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Clien list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Clien list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Clipboard.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Clipboard.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Clock.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Clock.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Closed door.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Closed door.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Closed folder.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Closed folder.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Coin.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Coin.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Coins.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Coins.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Color wheel.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Color wheel.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Comment.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Comment.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Comments.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Comments.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Company.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Company.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Computer.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Computer.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Conference.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Conference.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Connect.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Connect.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Construction.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Construction.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Contrast.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Contrast.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Control panel.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Control panel.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Create.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Create.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Database.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Database.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Date.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Date.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Delete.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Delete.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Desktop.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Desktop.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Diagram.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Diagram.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Dice.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Dice.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Disconnect.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Disconnect.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Discussion.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Discussion.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Document.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Document.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Documents.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Documents.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Dog.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Dog.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Dollar.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Dollar.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Down.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Down.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Download.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Download.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Edit.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Edit.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Euro.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Euro.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Exit button.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Exit button.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Exit.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Exit.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Favourites.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Favourites.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Fax.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Fax.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Flash drive.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Flash drive.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Flow block.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Flow block.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Free.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Free.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Friends.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Friends.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Full basket.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Full basket.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Funny.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Funny.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Game controller.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Game controller.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Gear.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Gear.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Genealogy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Genealogy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Gift.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Gift.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Girl.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Girl.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Globe.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Globe.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Handshake.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Handshake.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Happy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Happy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Hard disk.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Hard disk.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Heart.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Heart.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Help.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Help.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Hierarchy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Hierarchy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Home.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Home.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Hungup.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Hungup.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Industry.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Industry.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Info.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Info.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Key.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Key.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Label.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Label.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Left.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Left.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Lego brick.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Lego brick.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Letter.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Letter.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\List.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\List.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Lists.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Lists.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Lock.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Lock.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Log out.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Log out.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Login.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Login.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Mail.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Mail.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Microsoft.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Microsoft.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Mobile phone.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Mobile phone.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Money.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Money.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Monitor.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Monitor.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Mouse.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Mouse.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Music.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Music.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\No.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\No.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Notes.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Notes.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Numbered list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Numbered list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\OK.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\OK.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Online.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Online.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Open door.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Open door.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Open file.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Open file.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Open folder.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Open folder.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Open letter.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Open letter.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Open lock.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Open lock.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Payment.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Payment.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Peace.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Peace.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Pets.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Pets.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Phone.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Phone.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Piggy bank.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Piggy bank.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Piggy.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Piggy.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Pointer.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Pointer.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Pound.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Pound.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Price list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Price list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Print preview.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Print preview.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Print.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Print.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Printer.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Printer.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Problem.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Problem.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Properties.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Properties.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\RSS.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\RSS.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Red star.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Red star.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Refresh.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Refresh.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Remove from basket.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Remove from basket.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Report.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Report.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Right.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Right.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Rouble.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Rouble.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Sad.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Sad.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Safe.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Safe.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Save as.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Save as.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Save.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Save.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Scroll list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Scroll list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Search.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Search.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Shield.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Smile.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Smile.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Software.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Software.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Statistics.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Statistics.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Stop.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Stop.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Task list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Task list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Telephone.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Telephone.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Text.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Text.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Tick.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Tick.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\To do list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\To do list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Trash.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Trash.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Unknown person.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Unknown person.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Unlock.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Unlock.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Unordered list.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Unordered list.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Up.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Up.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Upload.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Upload.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\User group.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\User group.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\User.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\User.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Users.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Users.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Wallet.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Wallet.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Warning.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Warning.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Weather.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Weather.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Wireless.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Wireless.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Wizard.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Wizard.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Yen.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Yen.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Yin-Yang.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Yin-Yang.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Zoom in.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Zoom in.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Zoom out.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Zoom out.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\Zoom.png",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\Zoom.png"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\eng.gif",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\eng.gif"
+    },
+    {
+      "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\Hinh\\icons\\vit.gif",
+      "PackagePath": "staticwebassets\\img\\Hinh\\icons\\vit.gif"
+    },
+    {
       "Id": "F:\\Hoc Tap\\C_Shape\\API\\1_Project\\BShop\\BBShop\\BBShop\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },

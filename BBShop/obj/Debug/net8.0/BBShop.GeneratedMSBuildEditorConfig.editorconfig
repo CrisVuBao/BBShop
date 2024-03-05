@@ -42,12 +42,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Hoc Tap/C_Shape/API/1_Project/BShop/BBShop/BBShop/Views/Shared/_DanhSachSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYW5oU2FjaFNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Hoc Tap/C_Shape/API/1_Project/BShop/BBShop/BBShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Hoc Tap/C_Shape/API/1_Project/BShop/BBShop/BBShop/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Hoc Tap/C_Shape/API/1_Project/BShop/BBShop/BBShop/Views/Shop/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Hoc Tap/C_Shape/API/1_Project/BShop/BBShop/BBShop/Views/_ViewImports.cshtml]
